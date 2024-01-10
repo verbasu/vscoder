@@ -8,7 +8,7 @@ image:
   #repository: codercom/code-server
   repository: gitpod/openvscode-server
   #tag: '4.19.1'
-  tag: ""
+  tag: "1.85.1"
   pullPolicy: Always
 
 # Specifies one or more secrets to be used when pulling images from a
